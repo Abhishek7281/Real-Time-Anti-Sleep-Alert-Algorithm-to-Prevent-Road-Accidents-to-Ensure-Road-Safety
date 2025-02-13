@@ -101,7 +101,7 @@ cd real-time-drowsiness-detection
 3. Adaptive alert mechanisms, including vibrations and voice warnings.
    
 # Contributors
-
+<!-- This is a comment and will not appear in the rendered Markdown -->
 1. Abhishek Kumar Pathak (IIT Indore)
 
 2. Ankit Kumar Singh (Motihari College of Engineering)
