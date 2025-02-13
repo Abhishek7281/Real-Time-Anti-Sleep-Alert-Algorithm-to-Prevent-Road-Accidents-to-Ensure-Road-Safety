@@ -4,8 +4,7 @@
 
 The Real-Time Anti-Sleep Alert Algorithm is designed to prevent road accidents caused by driver drowsiness. It employs deep learning models to detect signs of drowsiness in real-time and alerts the driver through an alarm system. The solution is optimized for embedded systems such as Raspberry Pi, ensuring portability and efficiency for real-world applications.
 
-Dataset Link : https://www.kaggle.com/datasets/imadeddinedjerarda/mrl-eye-dataset
-
+Dataset Link : https://www.kaggle.com/datasets/abhishekpathak337/mrl-eye-dataset
 # Features
 
 1. Real-time driver drowsiness detection using deep learning models.
