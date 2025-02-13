@@ -100,8 +100,7 @@ cd real-time-drowsiness-detection
 
 3. Adaptive alert mechanisms, including vibrations and voice warnings.
    
-# Contributors
-<!-- This is a comment and will not appear in the rendered Markdown -->
+<!-- # Contributors
 1. Abhishek Kumar Pathak (IIT Indore)
 
 2. Ankit Kumar Singh (Motihari College of Engineering)
@@ -110,7 +109,7 @@ cd real-time-drowsiness-detection
 
 4. Vimal Bhatia (IIT Indore, Skoda Auto University)
 
-5. Ondrej Krejcar (Malaysia Japan International Institute of Technology)
+5. Ondrej Krejcar (Malaysia Japan International Institute of Technology) -->
 
 # Acknowledgments
 
